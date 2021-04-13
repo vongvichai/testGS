@@ -20,7 +20,7 @@ function addGS() {
     },
     redirect: 'follow',
     //referrerPolicy: 'no-referrer',
-    body: JSON.stringify({"first":"รัตยา","last":"โพธิผลิ","phone":"089-9363552"})
+    body: JSON.stringify({first:"รัตยา",last:"โพธิผลิ",phone:"089-9363552"})
   })
 }
 document.getElementById("btn").addEventListener("click", testGS)
