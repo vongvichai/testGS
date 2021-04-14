@@ -10,7 +10,7 @@ function testGS() {
 }
 
 function addGS() {
-  const url ="https://script.google.com/macros/s/AKfycbxhmha-_xaGZhYSNggrltJfq3D3aE9guSf9mEKU74PpqSDe2x7PJWMn3caW0puX0YhaRQ/exec"
+  const url ="https://script.google.com/macros/s/AKfycby5IHdFiiiZEs3pfreWg7TpdDJ0eOxQX0Qz2BbzQwC3zNYc4aGRJu2k1FDtgs0GTF2mVg/exec"
   fetch(url, {
     method: 'POST',
     mode: 'no-cors',
